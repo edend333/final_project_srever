@@ -3,6 +3,6 @@
 exports.config = {
   db_pass:"",
   db_user:"",
-  token_secret:"monkeysSecret",
+  token_secret:"AnaBleDav3",
   db_url:""
 }
